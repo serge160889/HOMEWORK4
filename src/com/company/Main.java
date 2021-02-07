@@ -24,6 +24,11 @@ public class Main {
         System.out.println(f1);
         System.out.println(f2);
         System.out.println(f3);
+        s3.printRectanglesCount();
+        s3.printClassName(true);
+        s3.printClassName(false);
+      
+
 
 
 
